@@ -1,11 +1,19 @@
 
-# Curso CS50 de Harvard.
+#  CS50 Harvard Course
+This repository documents my academic work for Harvard University’s CS50: Introduction to Computer Science course. It contains the solutions I developed throughout the program as part of my learning process.
 
-Este é um repositório dedicado ao curso CS50 de Harvard. Aqui você encontrará todos os exercícios resolvidos por mim.
-Vale salientar que as resoluções dos exercícios aqui apresentadas estão como forma unicamente de demonstração, e não devem ser usados de forma irresponsável como cópia para uso em novas resoluções de outros participantes do curso.
+All solutions are provided exclusively for academic, educational, and demonstrative purposes. They are not intended for misuse, including copying or submitting them as original work by other participants enrolled in the course.
 
-Separado por: Semana, linguagem, nome de cada um: 
-Mais detalhes consultar o README de cada exercício, (alguns ainda não estão prontos).
+The repository is structured to ensure clarity and traceability, with content organized by:
+
+*Course week
+
+*Programming language
+
+*Individual exercise name
+
+For detailed explanations, implementation notes, and context, please refer to the README file associated with each exercise.
+
 
 - [x] PSET 1 - C
     * Hello
@@ -49,6 +57,6 @@ Mais detalhes consultar o README de cada exercício, (alguns ainda não estão p
 
 <br/>
 
-## Certificado
+## Certificate
 
 
