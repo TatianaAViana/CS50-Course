@@ -51,4 +51,4 @@ Mais detalhes consultar o README de cada exercício, (alguns ainda não estão p
 
 ## Certificado
 
-![](CS50x_Certificate.png)
+
